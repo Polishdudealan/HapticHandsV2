@@ -57,3 +57,25 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\EECS598-HIS\Final P
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-03-19 17:07:40.997
 !MESSAGE Indexed 'HapticHandsV2' (30 sources, 134 headers) in 6.47 sec: 11,522 declarations; 44,900 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.26%)
+!SESSION 2024-03-20 14:37:58.499 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-03-20 14:38:23.492
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-03-20 14:38:23.508
+!MESSAGE Log4j2 initialized with config file D:\EECS598-HIS\Final Project\STM_ws\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-03-20 14:38:34.746
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-03-20 14:38:41.202
+!MESSAGE Indexed 'HapticHandsV2' (36 sources, 142 headers) in 6.31 sec: 14,610 declarations; 77,584 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.16%)
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-03-20 18:01:36.030
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.cdt.dsf.gdb.internal.ui.console.GdbBasicCliConsole$InputReadJob
