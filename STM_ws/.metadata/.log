@@ -16,3 +16,44 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-03-11 14:35:50.769
 !MESSAGE Indexed 'HapticHandsV2' (19 sources, 81 headers) in 4.61 sec: 4,260 declarations; 17,964 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+!SESSION 2024-03-11 16:31:46.877 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-03-11 16:32:00.657
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-03-11 16:32:00.658
+!MESSAGE Log4j2 initialized with config file D:\EECS598-HIS\Final Project\STM_ws\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-03-11 16:32:07.425
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-03-11 16:32:12.763
+!MESSAGE Indexed 'HapticHandsV2' (30 sources, 134 headers) in 5.25 sec: 11,522 declarations; 44,900 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.26%)
+!SESSION 2024-03-19 17:06:27.082 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-03-19 17:06:37.708
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-03-19 17:06:57.177
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-03-19 17:06:57.203
+!MESSAGE Log4j2 initialized with config file D:\EECS598-HIS\Final Project\STM_ws\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-03-19 17:07:34.058
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-03-19 17:07:40.997
+!MESSAGE Indexed 'HapticHandsV2' (30 sources, 134 headers) in 6.47 sec: 11,522 declarations; 44,900 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.26%)

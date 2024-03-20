@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP DRV8214RTER
+D Motor / Motion / Ignition Controllers & Drivers SINGLE H-BRIDGE MOTOR DRIVER
+K
+F https://www.ti.com/lit/ds/symlink/drv8214.pdf?ts=1709730200309&ref_url=https%253A%252F%252Fwww.ti.com.cn%252Fproduct%252Fcn%252FDRV8214
+$ENDCMP
+#
+#End Doc Library

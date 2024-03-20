@@ -326,6 +326,18 @@
     [
       "39a4a7a0-ffc4-4861-b33d-34da3c27e7e8",
       ""
+    ],
+    [
+      "f3252ed2-35ae-42bb-a4d7-15f17536fa50",
+      "Power Supply"
+    ],
+    [
+      "3b9177ca-97cd-47b7-a3ec-5363b3c1395f",
+      "Processor"
+    ],
+    [
+      "2935ab63-6385-4d9f-854d-846bdaab7cac",
+      "Motor Control"
     ]
   ],
   "text_variables": {}
