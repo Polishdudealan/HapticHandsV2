@@ -75,8 +75,6 @@ void Error_Handler(void);
 #define M2_A_GPIO_Port GPIOC
 #define M2_B_Pin GPIO_PIN_7
 #define M2_B_GPIO_Port GPIOC
-#define M0_Dir_Pin GPIO_PIN_9
-#define M0_Dir_GPIO_Port GPIOC
 #define M0_A_Pin GPIO_PIN_8
 #define M0_A_GPIO_Port GPIOA
 #define M0_B_Pin GPIO_PIN_9

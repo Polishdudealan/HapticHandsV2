@@ -79,3 +79,41 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\EECS598-HIS\Final P
 
 !ENTRY org.eclipse.core.jobs 2 2 2024-03-20 18:01:36.030
 !MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.cdt.dsf.gdb.internal.ui.console.GdbBasicCliConsole$InputReadJob
+!SESSION 2024-03-21 11:58:42.613 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-03-21 11:59:51.814
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-03-21 11:59:51.825
+!MESSAGE Log4j2 initialized with config file D:\EECS598-HIS\Final Project\STM_ws\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-03-21 12:00:04.768
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-03-21 12:00:15.319
+!MESSAGE Indexed 'HapticHandsV2' (38 sources, 145 headers) in 10.2 sec: 15,629 declarations; 89,562 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.14%)
+!SESSION 2024-03-23 00:27:21.046 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\EECS598-HIS\Final Project\STM_ws\HapticHandsV2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-03-23 00:30:56.723
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-03-23 00:30:56.755
+!MESSAGE Log4j2 initialized with config file D:\EECS598-HIS\Final Project\STM_ws\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-03-23 00:31:08.320
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-03-23 00:31:20.082
+!MESSAGE Indexed 'HapticHandsV2' (38 sources, 145 headers) in 11.4 sec: 15,628 declarations; 89,524 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.14%)

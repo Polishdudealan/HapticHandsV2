@@ -1680,6 +1680,13 @@
     (uuid db0b5177-2845-4860-b321-ca7f1cd4f398)
   )
 
+  (text_box "500mAh Battery:\nhttps://www.mouser.com/ProductDetail/406-ASR00035"
+    (at 114.3 91.44 0) (size 55.88 5.08)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 2c0807c1-bf4d-41a8-ad54-fbafc4a325f8)
+  )
   (text_box "Need to double check this UVLO voltage divider"
     (at 191.77 81.28 0) (size 25.4 7.62)
     (stroke (width 0) (type default))
